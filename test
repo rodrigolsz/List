@@ -127,8 +127,10 @@ http://200.41.79.165:8000/play/a04l
 http://200.41.79.165:8000/play/a04y
 #EXTINF:-1 tvg-id="Telecaribe",Telecaribe
 http://200.41.79.165:8000/play/a04w
-#EXTINF:-1 tvg-id="Telefeca",Telefe ca
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png", TELEFE
 http://200.41.79.165:8000/play/a04p
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-TgZv-RGCYoc/XrYHwcpfivI/AAAAAAAA0gw/AuqgxhioqLc1qhSHFDdH1ZftA0PKvOnzQCK8BGAsYHg/s0/2020-05-08.jpg", 9LINK CHACO
+http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
 #EXTINF:-1,Telefuturo
 http://200.41.79.165:8000/play/a0hy
 #EXTINF:-1 tvg-id="Teleislas",Teleislas
