@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-2022, ARTS AND ENTERTAINMENT CHANNEL
+https://router.cdn.rcs.net.ar/mnp/ae/output.mpd
+#EXTINF:-2022, CONSTRUIR TV
+https://router.cdn.rcs.net.ar/mnp/construiriptv/output.mpd
+#EXTINF:-2022, AMÉRICA
+https://router.cdn.rcs.net.ar/mnp/america/output.mpd
+#EXTINF:-2022, TELEFE
+https://router.cdn.rcs.net.ar/mnp/telefe/output.mpd
+#EXTINF:-2022, EL 13
+https://router.cdn.rcs.net.ar/mnp/el13/output.mpd
+#EXTINF:-2022, EL NUEVE
+https://router.cdn.rcs.net.ar/mnp/elnueve/output.mpd
+#EXTINF:-2022, DISCOVERY TURBO
+https://router.cdn.rcs.net.ar/mnp/dsc_turbo/output.mpd
+#EXTINF:-2022, TVP
+https://router.cdn.rcs.net.ar/mnp/tvp/output.mpd
+#EXTINF:-2022, ESPN 01
+https://router.cdn.rcs.net.ar/mnp/espn/output.mpd
+#EXTINF:-2022, ESPN 02
+https://router.cdn.rcs.net.ar/mnp/espn2/output.mpd
+#EXTINF:-2022, ESPN 03
+https://router.cdn.rcs.net.ar/mnp/espn3/output.mpd
+#EXTINF:-2022, ESPN EXTRA
+https://router.cdn.rcs.net.ar/mnp/espn_extra/output.mpd
+#EXTINF:-2022, FOX SPORTS
+https://router.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
+#EXTINF:-2022, FOX SPORTS 02
+https://router.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
+#EXTINF:-2022, FOX SPORTS 03
+https://router.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
+#EXTINF:-2022, HISTORY
+https://router.cdn.rcs.net.ar/mnp/history/output.mpd
+#EXTINF:-2022, HISTORY 02
+https://router.cdn.rcs.net.ar/mnp/h2/output.mpd
+#EXTINF:-2022, STAR CHANNEL
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel-avc1_2499584=7-mp4a_64000_spa=22.m3u8
