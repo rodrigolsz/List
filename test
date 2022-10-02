@@ -82,7 +82,7 @@ http://200.41.79.165:8000/play/a05f
 http://200.41.79.165:8000/play/a05g
 #EXTINF:-1 tvg-id="HistoryChannel",History Channel
 http://200.41.79.165:8000/play/a03y
-#EXTINF:-1 tvg-id="IP" tvg-logo="https://img.ip.digital/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd", IP
+#EXTINF:-1 tvg-id="IP" tvg-logo="https://img.ip.digital/sites/default/files/styles/1_91_1_max_1200px/theme/ip_theme/media/share.png", IP
 https://octubre-live.cdn.vustreams.com/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
 #EXTINF:-1,I-Sat
 http://200.41.79.165:8000/play/a0ht
