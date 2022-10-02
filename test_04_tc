@@ -1,0 +1,35 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="EVENTOS DEPORTIVOS", SSIPTV ARG SPORTS
+http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1536531758946177024/Rf_DiFM4_400x400.jpg" group-title="EVENTOS DEPORTIVOS", DIRECTV SPORTS
+http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="EVENTOS DEPORTIVOS", Fox Sports 1
+http://190.210.221.119/Processor3_10_chunklist_b1300000.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="EVENTOS DEPORTIVOS", Fox Sports 3
+https://is-tucuman.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="EVENTOS DEPORTIVOS", ESPN
+https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="EVENTOS DEPORTIVOS", ESPN 2
+https://edge-live12-sl.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="EVENTOS DEPORTIVOS", ESPN 3
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="EVENTOS DEPORTIVOS", ESPN 4
+https://edge-vod02-hr.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="EVENTOS DEPORTIVOS", Fox Sports 3
+https://is-tucuman.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1410260561212882945/yeUi7tMe_400x400.jpg" group-title="EVENTOS DEPORTIVOS", TNT Sports
+https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="EVENTOS DEPORTIVOS", ESPN Premium
+http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
+
