@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,TNT SPORT HD
+http://38.7.204.131:8000/play/a046/index.m3u8
 #EXTINF:-1,AMC
 http://45.167.194.11:8001/play/a001
 #EXTINF:-1,Animal Planet
