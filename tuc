@@ -1,3 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rodrigolsz/logos/main/El_Ocho.jpg", El Ocho Tv
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1679193131/ei/yx8WZMq_Coif4dUPorybiAo/ip/181.110.76.117/id/JtEYYw4llLg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAK2ak8F6-smVUuJdAJ2Vx-MO3B1W0l8hM0kviIXPcpzGAiAg4zLh6hiPwg24t8iW8qtNmfdIA559ZYp56U1QTQNS4w%3D%3D/file/index.m3u8"
+
+#EXTINF=-1 tvg-logo="https://raw.githubusercontent.com/rodrigolsz/logos/main/Canal_10.jpg", Canal 10
+https://canal10tucuman.com.ar/en-vivo-2/
