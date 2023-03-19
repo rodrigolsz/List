@@ -1,3 +1,10 @@
 #EXTM3U list-name="TUCUMAN" list-image="https://raw.githubusercontent.com/rodrigolsz/logos/main/Tucuman.jpg"
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rodrigolsz/logos/main/Canal_10.jpg", Canal 10 SD
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rodrigolsz/logos/main/El_Ocho.jpg", El Ocho Tv SD
+https://stream-02.sv4.dailymotion.com/sec(L2ctWl-m1CPTv_KKNWGm5B4YyW_hOLNm8RlrXCigdFNJNlPbdvFyDPwmbXSN734P)/dm/3/x8hvuj5/s/live-1.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rodrigolsz/logos/main/El_Ocho.jpg", El Ocho Tv HD
+https://stream-02.sv4.dailymotion.com/sec(L2ctWl-m1CPTv_KKNWGm5B4YyW_hOLNm8RlrXCigdFNJNlPbdvFyDPwmbXSN734P)/dm/3/x8hvuj5/s/live-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rodrigolsz/logos/main/Canal_10.jpg", Canal 10
 https://cdntvstrm.s.llnwi.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1679275201&h=d06ac86abe60e936fcff9ee0ad268c86
