@@ -1,11 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rodrigolsz/logos/main/El_Ocho.jpg", El Ocho Tv 240p
-https://stream-02.sv4.dailymotion.com/sec(L2ctWl-m1CPTv_KKNWGm5EV3KAYKaLcFVk4GsFjN6bp6AO20AZzI3DB59G6Rq1yV)/dm/3/x8hvuj5/s/live-0.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rodrigolsz/logos/main/El_Ocho.jpg", El Ocho Tv 480p
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rodrigolsz/logos/main/El_Ocho.jpg", El Ocho Tv SD
 https://stream-02.sv4.dailymotion.com/sec(L2ctWl-m1CPTv_KKNWGm5EV3KAYKaLcFVk4GsFjN6bp6AO20AZzI3DB59G6Rq1yV)/dm/3/x8hvuj5/s/live-1.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rodrigolsz/logos/main/El_Ocho.jpg", El Ocho Tv 720p
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rodrigolsz/logos/main/El_Ocho.jpg", El Ocho Tv HD
 https://stream-02.sv4.dailymotion.com/sec(L2ctWl-m1CPTv_KKNWGm5EV3KAYKaLcFVk4GsFjN6bp6AO20AZzI3DB59G6Rq1yV)/dm/3/x8hvuj5/s/live-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rodrigolsz/logos/main/Canal_10.jpg", Canal 10
