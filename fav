@@ -1,3 +1,7 @@
 #EXTM3U list-name="FAV" list-image="https://raw.githubusercontent.com/rodrigolsz/logos/main/Fav.png"
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rodrigolsz/logos/main/GH.jpg", GH
 https://siloh.pluto.tv/lilo/production/GranHermano/J8473924d9c83s484758d9485603s8/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rodrigolsz/logos/main/Telefe.jpg", Telefe
+https://edge-vod01-hr.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD-avc1_2499968=10001-scale=30000-init.mp4
