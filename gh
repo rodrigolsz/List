@@ -1,3 +1,15 @@
 #EXTM3U         
 #EXTINF:-1, GH 24HS
 https://cablered.iptvperu.tv:1936/stream/gh24hs/playlist.m3u8
+
+#EXTINF:-1, CAM 1
+https://artemisa1.cd-latam.com:1936/stream/ghcam1/playlist.m3u8
+
+#EXTINF:-1, CAM 2
+https://artemisa1.cd-latam.com:1936/stream/ghcam2/playlist.m3u8
+
+#EXTINF:-1, CAM 3
+https://artemisa1.cd-latam.com:1936/stream/ghcam3/playlist.m3u8
+
+#EXTINF:-1, MULTICAM
+https://cablered.iptvperu.tv:1936/stream/ghmulticam/playlist.m3u8
